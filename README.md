@@ -28,6 +28,8 @@ This repository contains Apple Shortcuts that help you stay informed about envir
 2. Open the files on your iOS device
 3. Follow the prompts to add them to your Shortcuts app
 4. Configure location settings and API URLs as needed (see Configuration section)
+5. In the Shortcuts app, add an Automation to trigger your shortcuts at specific times of the day
+   
 
 ## Configuration
 
