@@ -8,19 +8,11 @@ This repository contains Apple Shortcuts that help you stay informed about envir
 
 ## Features
 
-### ☂️ Smart Reminders
-- **Umbrella Reminder**: Displays a notification and voice reminder to bring an umbrella when leaving home, triggered by NFC tag proximity (e.g., wallet or phone)
-
-### 📊 Air Quality Monitoring
-- **5-Day AQI Forecast**: Displays a 5-day air quality forecast notification for London using DEFRA data
-- **AQI Alerts**: Displays a notification when air quality reaches moderate or worse levels (AQI 4+) for your current location
-
-### 🌤️ Weather Updates
-- **Daily Weather Forecast**: Displays a daily weather forecast notification
-
-### 🌾 Pollen Tracking
-- **Real-Time Pollen Count**: Displays real-time pollen count notifications for your configured location
-
+- **☂️ Umbrella Reminder**: Displays a notification and voice reminder to bring an umbrella when leaving home, triggered by NFC tag proximity (e.g., wallet or phone)
+- **🌤️ Daily Weather Bulletin**: Displays a daily weather forecast notification
+- **🌾Real-Time Pollen Count**: Displays real-time pollen count notifications for your configured location
+- **📊5-Day AQI Forecast**: Displays a 5-day air quality forecast notification for London using DEFRA data
+- **📊AQI Alerts**: Displays a notification when air quality reaches moderate or worse levels (AQI 4+) for your current location
 
 ## Installation
 
